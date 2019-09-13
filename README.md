@@ -1,4 +1,4 @@
-# Draggable QtPushButton
+# Draggable QPushButton
 simple class to inherit from QPushButton.
 
 override the mouse action to preform position movement.
